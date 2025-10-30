@@ -26,7 +26,7 @@ import MapboxMap from './components/MapboxMap'
 import './App.css'
 
 // Configuração da API
-const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'http://localhost:5001/api'
+const API_BASE_URL = import.meta.env.VITE_API_BASE_URL || 'https://shrouded-brook-92780-0986488286e3.herokuapp.com/api'
 
 
 function App() {
